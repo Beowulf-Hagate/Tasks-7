@@ -1,0 +1,30 @@
+*,*::before,*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Festive', cursive;
+    font-size: 1.19rem;
+    font-weight: bolder;
+}
+
+body{
+    background-color: #f9f9ff;
+}
+
+header {
+    background-color: #001219!important;
+    position: fixed;
+}
+
+.padding-top{
+    padding-top: 120px;
+}
+
+.navbar-brand{
+    color: #83948f !important;
+}
+
+footer{
+    background-color: #001219!important;
+    color: #83948f;
+}
